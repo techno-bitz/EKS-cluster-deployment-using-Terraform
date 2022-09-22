@@ -399,7 +399,4 @@ root@ip-172-31-89-235:~#
 That concludes the blog on using Terraform to deploy Kubernetes clusters on AWS cloud provider. If your cluster is no longer needed, execute the command 'terraform destroy'. Have a great time as you continue your Kubernetes journey!
 
 ## Author
-Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!
-
-<a href="mailto:sebin.xavi1@gmail.com"><img src="https://img.shields.io/badge/-sebin.xavi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sebinxavi"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
+Created by [@jaseem](https://www.linkedin.com/in/jaseem-kambash-b15005137/) - feel free to contact me and advise as necessary!
